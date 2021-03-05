@@ -2,7 +2,9 @@
 This is a blog which is **in beta**, ~~but you still could find something valuable.~~ :3
 ### Language
 In this website, almost every page is used English. But you could browse the Chinese pages which are less than English.
+
 - [x] **English(Now)**
+
 - [ ] [Chinese](/pages/zh/index.md)|*May not be supported most of the time.*
 
 ### Link
