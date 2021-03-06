@@ -4,9 +4,7 @@ This is a blog which is **in beta**, ~~but you still could find something valuab
 
 ### Language
 
-In this website, almost every page is used English[^Why]. But you could browse the Chinese pages which are less than English.    
-
-[^Why]: [Read me](/pages/zh/why-use-english.md)
+In this website, almost every page is used English. But you could browse the Chinese pages which are less than English.    
 
 |           Language            |                   Remark                   |
 | :---------------------------: | :----------------------------------------: |
@@ -17,9 +15,9 @@ In this website, almost every page is used English[^Why]. But you could browse t
 
 ### Link
 
-[Test](/pages/test.md)|This is a test page.  
+[Test](/pages/test.md) This is a test page.  
 
-[Repository](https://github.com/Realone233/realone233.github.io)|This is our repository ~~which you can find something awesome~~.  
+[Repository](https://github.com/Realone233/realone233.github.io) This is our repository ~~which you can find something awesome~~.  
 
 ### Now
 
