@@ -15,7 +15,7 @@ In this website, almost every page is used English. But you could browse the Chi
 
 ### Link
 
-[Test](/pages/test.md) This is a test page.  
+[Flags](/pages/flags.md) This is an experiment page.  
 
 [Repository](https://github.com/Realone233/realone233.github.io) This is our repository ~~which you can find something awesome~~.  
 
