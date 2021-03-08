@@ -9,7 +9,7 @@ What can you find the difference between index and test?
 We collected some songs into the page from *Netease Music*.
 
 > If your data is insufficient, DON’T click it. Because it may run out all your data.  
-> If the page can’t be load quickly, please wait for a time.  
+> If the page can’t be loaded quickly, please wait for a time.  
 > If the page can't load the player, please don't block third-party cookies.  
 > If it makes your device lag, please exit the page.  
 
