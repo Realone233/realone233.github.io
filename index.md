@@ -25,6 +25,15 @@ There is nothing more here, but I will add something new soon. Please wait for i
 ### To Do
 
 - [ ] Add something into the repository.
+
 - [ ] Add something interesting into the repository.
+
 - [ ] Use html file instead some md flies.
+
 - [ ] And so on.
+
+### Follow Us
+
+<img src="/assets/img/QR.png" style="zoom:50%;" />
+
+<p align="center">The QR code of our website.</p>
