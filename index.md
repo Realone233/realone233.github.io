@@ -15,11 +15,11 @@ In this website, almost every page is used English. But you could browse the Chi
 
 ### Link
 
-[Pages](/pages/index.md) view our posts.
+[Pages](/pages/index.md)|view our posts.
 
-[Flags](/flags/index.md) This is an experiment page.  
+[Flags](/flags/index.md)|This is an experiment page.  
 
-[Repository](https://github.com/Realone233/realone233.github.io) This is our repository ~~which you can find something awesome~~.  
+[Repository](https://github.com/Realone233/realone233.github.io)|This is our repository ~~which you can find something awesome~~.  
 
 ### Now
 
@@ -30,6 +30,6 @@ There is nothing more here, but I will add something new soon. Please wait for i
 
 - [ ] Add something interesting into the repository.
 
-- [ ] Use html file instead some md flies.
+- [ ] Use html.
 
 - [ ] And so on.
