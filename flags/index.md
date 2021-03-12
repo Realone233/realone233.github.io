@@ -4,8 +4,6 @@ Find something more interesting :3
 
 Want to get more details about this? [click here.](/details.md)
 
-> [TOC]
-
 ------
 
 ### Available
