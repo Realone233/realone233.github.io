@@ -6,12 +6,12 @@
 
 ------
 
-### Pined
-
-------
-
 ### Active
+
+- #### [Join Us](/active/join-us.md)
 
 ------
 
 ### All
+
+- #### [Join Us](/active/join-us.md)
