@@ -34,3 +34,4 @@ We collected some songs into the page from *Netease Music*.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=2323009156&auto=0&height=430"></iframe>
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/%E7%8C%8E%E6%88%B7%E6%98%9F%E5%BA%A7/1438421718?l=en"></iframe>
