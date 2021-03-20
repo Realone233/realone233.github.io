@@ -1,26 +1,20 @@
-**## Flags Page**
+## Flags Page
 
 
 
 Find something more interesting :3 
 
-
-
 Want to get more details about this? [click here.](/details.md)
 
-
-
-\------
-
-
-
-**### Available**
+------
 
 
 
-**#### [Music Iframe](/pages/active/music-collections-1.md) #B1**
+### Available
 
 
+
+#### [Music Iframe](/pages/active/music-collections-1.md) #B1
 
 From ***Apple music***.
 
@@ -30,17 +24,13 @@ From ***Apple music***.
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/til-the-end/1340007960?i=1340008222"></iframe>
 
-**#### [Inside HTML](/flags/active/inside-html.md)#F2**
-
-
+#### [Inside HTML](/flags/active/inside-html.md)#F2
 
 Use html elements but don't break the border which is auto-build by system.
 
 
 
-**#### [Pure HTML](/flags/active/pure-html.html)#3**
-
-
+#### [Pure HTML](/flags/active/pure-html.html)#3
 
 Click the link to via a html file. 
 
@@ -48,21 +38,17 @@ In that page, we'll try loading some files such as CSS and JS.
 
 
 
-\------
+------
 
 
 
-**### Unavailable**
+### Unavailable
 
 
 
-**#### ~~[Music Iframe](/flags/archives/music-iframe_failed.md)~~ #F1**
-
-
+#### ~~[Music Iframe](/flags/archives/music-iframe_failed.md)~~ #F1
 
 We collected some songs into the page from ***Netease Music***.
-
-
 
 \> If your data is insufficient, DON’T click it. Because it may run out all your data. 
 
