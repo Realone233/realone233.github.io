@@ -36,12 +36,10 @@
 
 a {
     text-decoration: none;
-    font-weight: bold;
     color: #393939;
  }
 a:hover {
      text-decoration: none;
-     font-weight: bold;
      color: #393939;
      animation:hold 0.7s;
      animation-fill-mode: forwards;
@@ -72,5 +70,5 @@ iframe {
 }
 
 body {
-    font:"Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family:"Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
