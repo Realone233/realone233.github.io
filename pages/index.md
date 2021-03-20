@@ -1,3 +1,4 @@
 ## Pages
 
-<iframe src="/pages/other/list.html"></iframe>
+<iframe frameborder="0" height="100%" width="100%" src="/pages/other/list.html"></iframe>
+
