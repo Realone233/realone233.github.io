@@ -12,13 +12,13 @@
     background: #ffffff;
     padding: 10px;
     margin:10px auto;
-    animation:clicked 0.5s;
+    animation:clicked 0.7s;
     animation-fill-mode: forwards;
-    -moz-animation:clicked 0.5s;
+    -moz-animation:clicked 0.7s;
     -moz-animation-fill-mode: forwards;
-    -webkit-animation:clicked 0.5s;
+    -webkit-animation:clicked 0.7s;
     -webkit-animation-fill-mode: forwards;
-    -o-animation:clicked 0.5s;
+    -o-animation:clicked 0.7s;
     -o-animation-fill-mode: forwards;
 }
     @keyframes clicked{
@@ -43,13 +43,13 @@ a:hover {
      text-decoration: none;
      font-weight: bold;
      color: #393939;
-     animation:hold 0.5s;
+     animation:hold 0.7s;
      animation-fill-mode: forwards;
-     -moz-animation:hold 0.5s;
+     -moz-animation:hold 0.7s;
      -moz-animation-fill-mode: forwards;
-     -webkit-animation:hold 0.5s;
+     -webkit-animation:hold 0.7s;
      -webkit-animation-fill-mode: forwards;
-     -o-animation:hold 0.5s;
+     -o-animation:hold 0.7s;
      -o-animation-fill-mode: forwards;
  }
      @keyframes hold{
@@ -64,3 +64,9 @@ a:hover {
      @-o-keyframes hold{
      from {text-decoration: none;}
      to {text-decoration: underline;}}
+
+iframe {
+     frameborder: 0;
+     height 100%;
+     width:100%;
+}
