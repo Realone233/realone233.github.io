@@ -34,9 +34,25 @@
     from {box-shadow: darkgrey 0px 1px 4px;}
     to {box-shadow: none;}}
 
- .fold {
- display:none;
- }
+.foldA {
+    display:none;
+}
+
+.foldB {
+    display:none;
+}
+
+.foldC {
+    display:none;
+}
+
+.foldD {
+    display:none;
+}
+
+.foldE {
+    display:none;
+}
 
 a {
     text-decoration: none;
