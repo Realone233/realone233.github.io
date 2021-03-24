@@ -1,0 +1,82 @@
+.box {
+    box-shadow: darkgrey 0px 1px 4px;
+    border-radius: 10px;
+    background: #ffffff;
+    padding: 10px;
+    margin:10px auto;
+}
+.box:hover {
+    box-shadow: darkgrey 0px 1px 4px;
+    text-decoration:none;
+    border-radius: 10px;
+    background: #ffffff;
+    padding: 10px;
+    margin:10px auto;
+    animation:clicked 0.7s;
+    animation-fill-mode: forwards;
+    -moz-animation:clicked 0.7s;
+    -moz-animation-fill-mode: forwards;
+    -webkit-animation:clicked 0.7s;
+    -webkit-animation-fill-mode: forwards;
+    -o-animation:clicked 0.7s;
+    -o-animation-fill-mode: forwards;
+}
+    @keyframes clicked{
+    from {box-shadow: darkgrey 0px 1px 4px;}
+    to {box-shadow: none;}}
+    @-moz-keyframes clicked{
+    from {box-shadow: darkgrey 0px 1px 4px;}
+    to {box-shadow: none;}}
+    @-webkit-keyframes clicked{
+    from {box-shadow: darkgrey 0px 1px 4px;}
+    to {box-shadow: none;}}
+    @-o-keyframes clicked{
+    from {box-shadow: darkgrey 0px 1px 4px;}
+    to {box-shadow: none;}}
+
+ .fold {
+    font-weight: bold;
+ }
+
+ .unfold {
+ display:none;
+ }
+
+a {
+    text-decoration: none;
+    color: #393939;
+ }
+a:hover {
+     text-decoration: none;
+     color: #393939;
+     animation:hold 0.7s;
+     animation-fill-mode: forwards;
+     -moz-animation:hold 0.7s;
+     -moz-animation-fill-mode: forwards;
+     -webkit-animation:hold 0.7s;
+     -webkit-animation-fill-mode: forwards;
+     -o-animation:hold 0.7s;
+     -o-animation-fill-mode: forwards;
+ }
+     @keyframes hold{
+     from {text-decoration: none;}
+     to {text-decoration: underline;}}
+     @-moz-keyframes hold{
+     from {text-decoration: none;}
+     to {text-decoration: underline;}}
+     @-webkit-keyframes hold{
+     from {text-decoration: none;}
+     to {text-decoration: underline;}}
+     @-o-keyframes hold{
+     from {text-decoration: none;}
+     to {text-decoration: underline;}}
+
+iframe {
+     frameborder: 0;
+     height 100%;
+     width:100%;
+}
+
+body {
+    font-family:"Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

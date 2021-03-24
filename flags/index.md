@@ -14,7 +14,7 @@ Want to get more details about this? [click here.](/details.md)
 
 
 
-#### [Music Iframe](/pages/active/music-collections-1.md) #B1
+#### [Music Iframe](/pages/active/music-collections-1.html) #B1
 
 From ***Apple music***.
 
@@ -24,7 +24,7 @@ From ***Apple music***.
 
 
 
-#### [Inside HTML](/flags/active/inside-html.md)#F2
+#### [Inside HTML](/flags/active/inside-html.html)#F2
 
 Use html elements but don't break the border which is auto-build by system.
 
@@ -46,7 +46,7 @@ In that page, we'll try loading some files such as CSS and JS.
 
 
 
-#### ~~[Music Iframe](/flags/archives/music-iframe_failed.md)~~ #F1
+#### ~~[Music Iframe](/flags/archives/music-iframe_failed.html)~~ #F1
 
 We collected some songs into the page from ***Netease Music***.
 
