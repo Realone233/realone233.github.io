@@ -35,10 +35,6 @@
     to {box-shadow: none;}}
 
  .fold {
-    font-weight: bold;
- }
-
- .unfold {
  display:none;
  }
 
