@@ -7,130 +7,40 @@
     <style>
         .box {
             box-shadow: none;
-            text-decoration: none;
             border-radius: 10px;
             background: #ffffff;
             padding: 10px;
             margin: 10px auto;
+            transition:box-shadow 0.7s ease 0s;
+            -moz-transition:box-shadow 0.7s ease 0s;
+            -webkit-transition:box-shadow 0.7s ease 0s;
+            -o-transition:box-shadow 0.7s ease 0s;
         }
 
         .box:hover {
-            box-shadow: none;
-            border-radius: 10px;
-            background: #ffffff;
-            padding: 10px;
-            margin: 10px auto;
-            animation: clicked 0.7s;
-            animation-fill-mode: forwards;
-            -moz-animation: clicked 0.7s;
-            -moz-animation-fill-mode: forwards;
-            -webkit-animation: clicked 0.7s;
-            -webkit-animation-fill-mode: forwards;
-            -o-animation: clicked 0.7s;
-            -o-animation-fill-mode: forwards;
+            box-shadow: darkgrey 0px 1px 4px;
         }
 
-        @keyframes clicked {
-            from {
-                box-shadow: none;
-            }
-
-            to {
-                box-shadow: darkgrey 0px 1px 4px;
-            }
-        }
-
-        @-moz-keyframes clicked {
-            from {
-                box-shadow: none;
-            }
-
-            to {
-                box-shadow: darkgrey 0px 1px 4px;
-            }
-        }
-
-        @-webkit-keyframes clicked {
-            from {
-                box-shadow: none;
-            }
-
-            to {
-                box-shadow: darkgrey 0px 1px 4px;
-            }
-        }
-
-        @-o-keyframes clicked {
-            from {
-                box-shadow: none;
-            }
-
-            to {
-                box-shadow: darkgrey 0px 1px 4px;
-            }
-        }
-
-        a {
+        a * {
             text-decoration: underline;
             color: #393939;
+            font-weight: bold;
             -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
             -webkit-user-select: none;
             -moz-user-focus: none;
             -moz-user-select: none;
+            transition:all 0.7s ease 0s;
+            -moz-transition:all 0.7s ease 0s;
+            -webkit-transition:all 0.7s ease 0s;
+            -o-transition:all 0.7s ease 0s;
         }
 
-        a:hover {
-            text-decoration: underline;
-            color: #393939;
-            animation: hold 0.7s;
-            animation-fill-mode: forwards;
-            -moz-animation: hold 0.7s;
-            -moz-animation-fill-mode: forwards;
-            -webkit-animation: hold 0.7s;
-            -webkit-animation-fill-mode: forwards;
-            -o-animation: hold 0.7s;
-            -o-animation-fill-mode: forwards;
+        a *:hover {
+            text-decoration: none;
+            background-color: #393939;
+            color: white;
         }
 
-        @keyframes hold {
-            from {
-                text-decoration: underline;
-            }
-
-            to {
-                text-decoration: none;
-            }
-        }
-
-        @-moz-keyframes hold {
-            from {
-                text-decoration: underline;
-            }
-
-            to {
-                text-decoration: none;
-            }
-        }
-
-        @-webkit-keyframes hold {
-            from {
-                text-decoration: underline;
-            }
-
-            to {
-                text-decoration: none;
-            }
-        }
-
-        @-o-keyframes hold {
-            from {
-                text-decoration: underline;
-            }
-
-            to {
-                text-decoration: none;
-            }
-        }
 
         body {
             font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -140,9 +50,7 @@
 
 <body onselectstart="return false">
     <a href="https://music.163.com/song?id=297587" target="_blank">
-        <div class="box">
-            <strong>我们都是好孩子 - 王筝</strong>
-        </div>
+        <div class="box">我们都是好孩子 - 王筝</div>
     </a>
 
 </body>
