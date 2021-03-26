@@ -11,7 +11,7 @@ In this website, almost every page is used English. But you could browse the Chi
 |  [English](/pages/index.md)   | *There may be a few grammatical mistakes.* |
 | [Chinese](/pages/other/zh.md) |  *May not be supported most of the time.*  |
 
-### Link
+### Links
 
 [Pages](/pages/index.md) view our posts.  
 
@@ -28,8 +28,6 @@ In this website, almost every page is used English. But you could browse the Chi
 - [x] Add something into the repository.
 
 - [ ] Add something interesting into the repository.
-
-- [ ] Use html.
 
 - [ ] And so on.
 

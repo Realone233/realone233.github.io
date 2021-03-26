@@ -1,5 +1,7 @@
 ## Join Us
 
+*[Chinese version available](https://realone233.github.io/pages/notes/zh-join-us.html)*
+
 ### A letter to you written by *Realone*
 
 **Dear *friends*,**  
