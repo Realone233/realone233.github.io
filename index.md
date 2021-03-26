@@ -9,7 +9,7 @@ In this website, almost every page is used English. But you could browse the Chi
 |           Language            |                   Remark                   |
 | :---------------------------: | :----------------------------------------: |
 |  [English](/pages/index.md)   | *There may be a few grammatical mistakes.* |
-| [Chinese](/pages/other/zh.md) |  *May not be supported most of the time.*  |
+| [Chinese](/pages/zh-index.md) |  *May not be supported most of the time.*  |
 
 ### Links
 
