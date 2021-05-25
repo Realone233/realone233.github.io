@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-markdown:GFM
+markdown: GFM
 title: Realone in Box
 logo: /assets/img/logo.png
 description: <a href="https://realone233.github.io/pages/index.html">Pages| View our posts.</a><br /><a href="https://realone233.github.io/flags/index.html">Flags| Try something interesting.</a><br /><a href="https://creativecommons.org/licenses/by-sa/4.0">Licensed under CC BY-SA 4.0</a>
