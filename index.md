@@ -2,7 +2,7 @@
 
 This is a blog which is **in beta**, ~~but you still could find something valuable.~~ :3
 
-## Notice
+### Notice
 
 We are changing the theme of the site, so there may be some bugs.
 
