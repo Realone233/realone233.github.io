@@ -2,6 +2,10 @@
 
 This is a blog which is **in beta**, ~~but you still could find something valuable.~~ :3
 
+## Notice
+
+We are changing the theme of the site, so there may be some bugs.
+
 ### Language
 
 In this website, almost every page is used English. But you could browse the Chinese pages which are less than English.    
@@ -26,8 +30,7 @@ In this website, almost every page is used English. But you could browse the Chi
 ### To Do
 
 - [x] Add something into the repository.
-
 - [ ] Add something interesting into the repository.
-
+- [ ] Change the theme of the site.
 - [ ] And so on.
 
