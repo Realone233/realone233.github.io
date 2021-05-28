@@ -1,4 +1,5 @@
-remote_theme: realone233/line
-title: Realone in the Box
+theme: jekyll-theme-minimal
+title: Realone in Box
 markdown: kramdown
-description: <a href="https://realone233.github.io/pages/index.html">Pages| View our posts.</a><br /><a href="https://realone233.github.io/flags/index.html">Flags| Try something interesting.</a><br /><a href="https://creativecommons.org/licenses/by-sa/4.0">Licensed under CC BY-SA 4.0</a>
+logo: /assets/img/logo.png
+extend: <div class="box"><div class="fold"><a href="https://realone233.github.io/pages/index.html">Pages| View our posts.</a><br /><a href="https://realone233.github.io/flags/index.html">Flags| Try something interesting.</a><br /><a href="https://creativecommons.org/licenses/by-sa/4.0">Licensed under CC BY-SA 4.0</a></div></div>
